@@ -1,5 +1,26 @@
-# 💫PRAHALYAA A
-B.TECH CSE
+## 💫About Me
+
+I'm **PRAHALYAA A**, a B.Tech Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a strong passion for embedded systems, AI/ML, and full-stack development. My projects often blend hardware with intelligent software solutions, reflecting my commitment to creating impactful technological innovations.
+
+---
+
+### 🔭 Current Projects
+
+* **UV LED Life Prediction**: Developing a Remaining Useful Life (RUL) prediction system for UV LEDs using a hybrid LSTM-CNN-ASAN architecture. This project incorporates CBAM attention mechanisms, Empirical Mode Decomposition (EMD) features, and dynamic thresholds to enhance predictive accuracy.
+
+* **Smart Energy Meter**: Building an energy monitoring system using the STM32F401 microcontroller. The project focuses on real-time data acquisition and analysis, aiming to optimize energy consumption.
+
+* **TREKCAMPUS**: Creating an intra-campus navigation system to assist students and visitors in finding optimal paths within the campus premises.
+
+---
+
+### 🤝 Open to Collaborate On
+
+* AI applications in healthcare and assistive technologies
+* Embedded systems and IoT projects
+* Full-stack web development with a focus on user-centric design
+
+---
 
 
 ## 🌐 Socials:
