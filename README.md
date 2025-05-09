@@ -4,17 +4,14 @@ I'm **PRAHALYAA A**, a B.Tech Computer Science and Engineering student at Amrita
 
 ---
 
-### 🔭 Current Projects
+### Current Projects
 
 * **UV LED Life Prediction**: Developing a Remaining Useful Life (RUL) prediction system for UV LEDs using a hybrid LSTM-CNN-ASAN architecture. This project incorporates CBAM attention mechanisms, Empirical Mode Decomposition (EMD) features, and dynamic thresholds to enhance predictive accuracy.
 
-* **Smart Energy Meter**: Building an energy monitoring system using the STM32F401 microcontroller. The project focuses on real-time data acquisition and analysis, aiming to optimize energy consumption.
-
-* **TREKCAMPUS**: Creating an intra-campus navigation system to assist students and visitors in finding optimal paths within the campus premises.
-
+* **PennyWise**: designing an app and responsive website to help friend or family groups manage a household budget and save for a shared goal (like a vacation).
 ---
 
-### 🤝 Open to Collaborate On
+### Open to Collaborate On
 
 * AI applications in healthcare and assistive technologies
 * Embedded systems and IoT projects
