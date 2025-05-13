@@ -1,4 +1,4 @@
-## 💫About Me
+## About
 
 I'm **PRAHALYAA A**, a B.Tech Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a strong passion for embedded systems, AI/ML, and full-stack development. My projects often blend hardware with intelligent software solutions, reflecting my commitment to creating impactful technological innovations.
 
