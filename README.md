@@ -4,13 +4,6 @@ I'm **PRAHALYAA A**, a B.Tech Computer Science and Engineering student at Amrita
 
 ---
 
-### Current Projects
-
-* **UV LED Life Prediction**: Developing a Remaining Useful Life (RUL) prediction system for UV LEDs using a hybrid LSTM-CNN-ASAN architecture. This project incorporates CBAM attention mechanisms, Empirical Mode Decomposition (EMD) features, and dynamic thresholds to enhance predictive accuracy.
-
-* **PennyWise**: designing an app and responsive website to help friend or family groups manage a household budget and save for a shared goal (like a vacation).
----
-
 ### Open to Collaborate On
 
 * AI applications in healthcare and assistive technologies
